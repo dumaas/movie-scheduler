@@ -1,5 +1,8 @@
 def main():
-    return "Hello World!" # TODO: Remove once environment is working
+    # TODO: Remove once environment is working
+    msg = "Hello World!"
+    print(msg)
+    return msg
 
 
 if __name__ == "__main__":
